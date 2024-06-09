@@ -1,5 +1,5 @@
 # chandrayaan3
-# enhance the image using DIP and ml
+# enhance the quality of image using DIP and Machine learning
 # it is captured from large distance so, it may be blurrd
 #Enhancing images from Chandrayaan-3 (assuming you mean images from the Indian lunar mission) using Digital Image Processing (DIP) involves various techniques to improve the quality, resolution, and information content of the images. Here's a simplified step-by-step process for enhancing lunar images using DIP:
 
